@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2ad4ea96","path":"/guide/guide4.html","title":"Recode Gender & Race Variables","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/guide4.md"}');export{e as data};

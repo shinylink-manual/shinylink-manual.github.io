@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2e3e9bd4","path":"/guide/guide3.html","title":"Assign/standardize variable names","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/guide3.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1d2e259e","path":"/guide/guide8.html","title":"Initiate the simple match algorithm","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/guide8.md"}');export{e as data};

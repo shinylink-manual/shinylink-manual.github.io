@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-276b3958","path":"/guide/guide5.html","title":"Format the dates in your data sets","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"guide/guide5.md"}');export{e as data};
