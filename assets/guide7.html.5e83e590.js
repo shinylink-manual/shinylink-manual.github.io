@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2097d6dc","path":"/guide/guide7.html","title":"Initiate the simple match algorithm","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675194068000,"contributors":[{"name":"nelson-sci-labs","email":"85094353+nelson-sci-labs@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/guide7.md"}');export{e as data};

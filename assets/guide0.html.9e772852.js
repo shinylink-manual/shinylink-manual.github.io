@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-387baf8e","path":"/guide/guide0.html","title":"Interface Overview","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675194068000,"contributors":[{"name":"nelson-sci-labs","email":"85094353+nelson-sci-labs@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/guide0.md"}');export{e as data};

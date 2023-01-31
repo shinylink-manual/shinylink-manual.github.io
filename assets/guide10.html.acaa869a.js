@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6cc7c2ec","path":"/guide/guide10.html","title":"Optional. Advanced Match","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675194068000,"contributors":[{"name":"nelson-sci-labs","email":"85094353+nelson-sci-labs@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/guide10.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2401881a","path":"/guide/guide6.html","title":"Choose the variables for matching","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675194068000,"contributors":[{"name":"nelson-sci-labs","email":"85094353+nelson-sci-labs@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/guide6.md"}');export{e as data};

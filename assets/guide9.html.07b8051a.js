@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-19c47460","path":"/guide/guide9.html","title":"View, copy, search, and download","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675194068000,"contributors":[{"name":"nelson-sci-labs","email":"85094353+nelson-sci-labs@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/guide9.md"}');export{e as data};

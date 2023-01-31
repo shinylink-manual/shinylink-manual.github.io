@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3511fe50","path":"/guide/guide1.html","title":"Upload your data or demo data","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1675194068000,"contributors":[{"name":"nelson-sci-labs","email":"85094353+nelson-sci-labs@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/guide1.md"}');export{e as data};
